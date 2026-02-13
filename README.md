@@ -191,7 +191,8 @@ DoctorPatientManagementSystem/
 
 ##  Developer
 
-Developed by: Piyush Prajapati
+Developed by:
+Piyush Prajapati
 Technology: Java | MySQL | Swing | MVC
 
 ---
