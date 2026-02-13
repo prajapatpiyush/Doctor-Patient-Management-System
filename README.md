@@ -63,7 +63,7 @@ CREATE TABLE patients (
 ```
 ---
 
-## 🚀 Features
+##  Features
 
 - Add patient records  
 - Search patient (ID / Name / Mobile)  
@@ -78,7 +78,7 @@ CREATE TABLE patients (
 
 ---
 
-## 🔒 Data Security
+##  Data Security
 
 - Works completely offline  
 - No internet required  
@@ -90,7 +90,7 @@ Patient data remains private on the doctor's laptop.
 
 ---
 
-## ⚙ Installation Guide (Client Setup)
+##  Installation Guide (Client Setup)
 
 ### Step 1: Install Java
 
